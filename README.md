@@ -15,5 +15,7 @@ Portfolio page
 - readme.jpg
 - resume.pdf
 
+please visit with below url : https://kenny852.github.io/Mod2challenge/
+
 #page preview
 ![portfolio demo](./readme.jpg)
